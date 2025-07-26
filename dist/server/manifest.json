@@ -1,0 +1,10 @@
+{
+  "virtual-server.ts": {
+    "assets": [
+      "assets/simplemap.tmx"
+    ],
+    "file": "main.mjs",
+    "isEntry": true,
+    "src": "virtual-server.ts"
+  }
+}
